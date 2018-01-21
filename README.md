@@ -14,3 +14,4 @@ Spring, 2018
 [Syllabus](https://github.com/dblarremore/csci3022/blob/master/resources/syllabus.md)
 
 ***
+changed for test
