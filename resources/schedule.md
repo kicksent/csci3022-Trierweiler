@@ -25,8 +25,8 @@
 |6   |02.19 |	    |7          |Variance								 | [lec11](https://github.com/dblarremore/csci3022/blob/master/slides/lec11.pdf)      |[hw3](https://github.com/dblarremore/csci3022/tree/master/homework/homework3) posted|
 |    |02.21 | [nb10](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb10_expectation.ipynb) [nb11](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb11_exp_and_var.ipynb)	    |           |**More Expectation & Variance** 		 |       |	|
 |    |02.23 |	    |5.5        |The Normal Distribution 				 | [lec12](https://github.com/dblarremore/csci3022/blob/master/slides/lec12.pdf)      		 |	|
-|7   |02.26 |	    |           |**MIDTERM EXAM REVIEW** 				 |       		 |	|
-|    |02.28 |	    |14         |The Central Limit Theorems 			 |       |	|
+|7   |02.26 |	    |           |**MIDTERM EXAM REVIEW** 				 | [review notes](https://github.com/dblarremore/csci3022/blob/master/slides/midterm_review.pdf)      		 |	|
+|    |02.28 |	    |14         |The Central Limit Theorems 			 | [lec13](https://github.com/dblarremore/csci3022/blob/master/slides/lec13.pdf)       |	|
 |    |02.28 |	    |           |**MIDTERM EXAM (PM)** 					 |       |	|
 |    |03.2  | 	    |           |**The Central Limit Theorem and You**	 |       |hw3 due|
 |8   |3.5	|	    |23,24      |Inference and CI Intro					 |       |hw4 posted|
